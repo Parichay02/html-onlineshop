@@ -1,0 +1,8 @@
+.a{ 
+    display:flex;
+    background-color: yellow;
+    gap: 10px;
+}
+li{
+    color: blue;
+}
